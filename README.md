@@ -27,6 +27,6 @@ You can access the hosted version of the application [here](https://uexcelerate-
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **React Hook Form**: Form validation and handling in React.
 - **React Router**: For navigating between login and chat screens.
-- **Vercel** (Optional): For hosting the live application.
+- **Netlify** : For hosting the live application.
 
 
