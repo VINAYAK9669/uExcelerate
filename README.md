@@ -11,6 +11,7 @@ This is a chat application built using **React.js**, **Tailwind CSS**, **React H
 ## Live Demo
 
 You can access the hosted version of the application [here](https://uexcelerate-assignment.netlify.app/home).
+Access the Video here [Click Here](https://drive.google.com/file/d/1qbA_N8RvKPFPYBM9lTCiTCP7CJYqUamn/view?usp=drive_link)
 
 ## Features
 
